@@ -1,2 +1,2 @@
-# kmaw-edgev-downloader-main-VERSION
+# kmaw-edgev-downloader/main/VERSION
 downloader V
